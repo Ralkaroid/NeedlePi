@@ -1,0 +1,11 @@
+[
+  {
+    "name": "get_status",
+    "description": "Get the Raspberry Pi hostname, uptime, memory usage, and whether the Needle model file exists.",
+    "parameters": {
+      "type": "object",
+      "properties": {},
+      "required": []
+    }
+  }
+]

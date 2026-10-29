@@ -1,0 +1,20 @@
+[
+  {
+    "name": "gpio_on",
+    "description": "Turn the LED connected to Raspberry Pi BCM GPIO17 on.",
+    "parameters": {
+      "type": "object",
+      "properties": {},
+      "required": []
+    }
+  },
+  {
+    "name": "gpio_off",
+    "description": "Turn the LED connected to Raspberry Pi BCM GPIO17 off.",
+    "parameters": {
+      "type": "object",
+      "properties": {},
+      "required": []
+    }
+  }
+]
